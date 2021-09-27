@@ -42,3 +42,5 @@ git commit
 
 - [x] Finish this lab
 - [ ] Do all of my other homework
+
+sports section https://github.com/smadduri001/cse110lab1/blob/branch/index.md#sports
